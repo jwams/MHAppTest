@@ -1,0 +1,8 @@
+{
+  "name": "sqltest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "cb05cc0e"
+}
